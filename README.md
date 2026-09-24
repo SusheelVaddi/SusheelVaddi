@@ -5,3 +5,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science, 
 ## Skills
 
 Python, C, Java, HTML, CSS, Git, GitHub, Artificial Intelligence, and Data Science.
+
+## Repository Purpose
+
+This repository documents my learning progress, development work, and experiments as I build my skills in software development and AI.
